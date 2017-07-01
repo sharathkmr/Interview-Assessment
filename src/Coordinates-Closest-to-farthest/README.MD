@@ -38,3 +38,4 @@ So, if the origin is (6,33), then the first item in the output would be the coor
 then third closest, and so on for all 26 input coordinates.
 
 The origin should vary; do not hardcode a static origin.  Also, the coordinates must be sourced from “coordinates.json”.
+
